@@ -1,0 +1,6 @@
+subject,n,answered,answer_rate,accuracy,avg_chars,avg_words,repetition_rate,stop_marker_rate
+high_school_computer_science,100,93,0.93,0.72,607.42,98.1,0.01,0.83
+college_computer_science,100,87,0.87,0.53,654.74,104.41,0.0,0.83
+college_mathematics,100,80,0.8,0.4,677.62,118.95,0.05,0.83
+high_school_mathematics,119,78,0.6554621848739496,0.35294117647058826,727.2605042016806,124.12605042016807,0.10084033613445378,0.6554621848739496
+abstract_algebra,100,82,0.82,0.3,582.65,102.65,0.04,0.84

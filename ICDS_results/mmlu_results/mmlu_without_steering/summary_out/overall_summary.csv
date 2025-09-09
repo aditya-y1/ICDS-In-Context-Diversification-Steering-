@@ -1,0 +1,2 @@
+total_examples,answered,answer_rate,overall_accuracy,macro_subject_accuracy,avg_response_chars,avg_response_words,repetition_rate,contains_stop_marker_rate
+519,422,0.8131021194605009,0.6107899807321773,0.6094117647058823,364.53757225433526,67.6319845857418,0.0019267822736030828,0.0
